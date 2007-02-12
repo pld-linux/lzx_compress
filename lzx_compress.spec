@@ -1,5 +1,5 @@
 Summary:	LZX compression package
-Summary(pl):	Pakiet do kompresji LZX
+Summary(pl.UTF-8):   Pakiet do kompresji LZX
 Name:		lzx_compress
 Version:	0
 Release:	1
@@ -15,10 +15,10 @@ An GPLed LZX compression engine, suitable for creating compressed CHM
 files. Or for use in a CAB-making utility or for any other purpose LZX
 is useful for.
  
-%description -l pl
-Silnik do kompresji LZX na licencji GPL, nadaj±cy siê do tworzenia
-skompresowanych plików CHM albo archiwów CAB, albo do czegokolwiek z
-u¿yciem kompresji LZX.
+%description -l pl.UTF-8
+Silnik do kompresji LZX na licencji GPL, nadajÄ…cy siÄ™ do tworzenia
+skompresowanych plikÃ³w CHM albo archiwÃ³w CAB, albo do czegokolwiek z
+uÅ¼yciem kompresji LZX.
 
 %prep
 %setup -q -n %{name}
