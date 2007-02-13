@@ -1,5 +1,5 @@
 Summary:	LZX compression package
-Summary(pl.UTF-8):   Pakiet do kompresji LZX
+Summary(pl.UTF-8):	Pakiet do kompresji LZX
 Name:		lzx_compress
 Version:	0
 Release:	1
